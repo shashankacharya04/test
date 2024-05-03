@@ -14,9 +14,6 @@ document.querySelector('#app').innerHTML = `
     <h1>Hello Vite!</h1>
     <div class="card">
       <button id="counter" type="button"></button>
-      <button><a href="./loginpage.html">login</a></button>
-      <button><a href="./register.html">register</a></button>
-      <button><a href="test.html">Random</a></button>
     </div>
     <p class="read-the-docs">
       Click on the Vite logo to learn more
